@@ -1,5 +1,4 @@
-# Curated AWS Project Ideas for Beginners (Simple & Hands-on)
-**Learn AWS by Doing: Project Ideas**
+# Curated AWS Project 
 
 This list provides a springboard for your AWS journey. As you gain confidence, you can explore more complex projects involving databases, serverless architectures, and machine learning
 
